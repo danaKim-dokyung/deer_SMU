@@ -13,3 +13,4 @@ SMU 스터디 상생 프로젝트
   <img alt="React Native" src="https://img.shields.io/badge/react_native-61DAFB?&style=for-the-badge&logo=react&logoColor=black"/>
   <img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?&style=for-the-badge&logo=firebase"/>
 </p>
+
